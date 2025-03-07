@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **Node Js,MondoDB**
+- 🌱 I’m currently learning **Next Js, TypeScript**
 
 - 💬 Ask me about **Web Dev, Blockchain, MERN**
 
-- 📫 How to reach me **masudalammolla99@gmail.com**
+- 📫 How to reach me **masudalammolla9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
